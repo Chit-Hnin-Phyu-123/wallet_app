@@ -1,0 +1,4 @@
+class TokenData
+{
+  static const String cloudMessageServerKey = "key=AAAAA2N4kPo:APA91bFDsq1SvBnyE4YJK0TVik9CIRD6NpPgQwOk7IHHFot2QW0vkExPA078r7GdirJ8OxmDX9cDpLOxFC1heZ3Q-Eu7JL2sSKpRfsqz-ActFTmY_1BNU3TJuMh5lqWwOzVp6NpWCaFz";
+}

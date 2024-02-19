@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14553747706",
+    "project_id": "wallet-app-4fcc2",
+    "storage_bucket": "wallet-app-4fcc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14553747706:android:4bbcc9a50ce78bdac5b943",
+        "android_client_info": {
+          "package_name": "com.example.wallet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14553747706-k3kg9mmq9bvjnltkg3lug7s7g6nhs0ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallet_app",
+            "certificate_hash": "7f12c117196b25636fddd0a1a5796f6bf7440c15"
+          }
+        },
+        {
+          "client_id": "14553747706-46n4p6kk0e2h89niulgk20ke2vt744t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMEMHZuSstcGsu0aOhOSrmV_MKodZoYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14553747706-46n4p6kk0e2h89niulgk20ke2vt744t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
